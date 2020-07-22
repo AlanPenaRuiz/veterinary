@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlanPenaRuiz/veterinary/static/css/main.b8a6c26f.chunk.css",
+    "main.js": "/AlanPenaRuiz/veterinary/static/js/main.4c710276.chunk.js",
+    "main.js.map": "/AlanPenaRuiz/veterinary/static/js/main.4c710276.chunk.js.map",
+    "runtime-main.js": "/AlanPenaRuiz/veterinary/static/js/runtime-main.599c6c2d.js",
+    "runtime-main.js.map": "/AlanPenaRuiz/veterinary/static/js/runtime-main.599c6c2d.js.map",
+    "static/js/2.2aca169f.chunk.js": "/AlanPenaRuiz/veterinary/static/js/2.2aca169f.chunk.js",
+    "static/js/2.2aca169f.chunk.js.map": "/AlanPenaRuiz/veterinary/static/js/2.2aca169f.chunk.js.map",
+    "index.html": "/AlanPenaRuiz/veterinary/index.html",
+    "precache-manifest.135959f113bef93b194a0b2863c2774d.js": "/AlanPenaRuiz/veterinary/precache-manifest.135959f113bef93b194a0b2863c2774d.js",
+    "service-worker.js": "/AlanPenaRuiz/veterinary/service-worker.js",
+    "static/css/main.b8a6c26f.chunk.css.map": "/AlanPenaRuiz/veterinary/static/css/main.b8a6c26f.chunk.css.map",
+    "static/js/2.2aca169f.chunk.js.LICENSE.txt": "/AlanPenaRuiz/veterinary/static/js/2.2aca169f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.599c6c2d.js",
+    "static/js/2.2aca169f.chunk.js",
+    "static/css/main.b8a6c26f.chunk.css",
+    "static/js/main.4c710276.chunk.js"
+  ]
+}
