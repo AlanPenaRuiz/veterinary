@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AlanPenaRuiz/veterinary/static/css/main.b8a6c26f.chunk.css",
-    "main.js": "/AlanPenaRuiz/veterinary/static/js/main.4c710276.chunk.js",
-    "main.js.map": "/AlanPenaRuiz/veterinary/static/js/main.4c710276.chunk.js.map",
-    "runtime-main.js": "/AlanPenaRuiz/veterinary/static/js/runtime-main.599c6c2d.js",
-    "runtime-main.js.map": "/AlanPenaRuiz/veterinary/static/js/runtime-main.599c6c2d.js.map",
-    "static/js/2.2aca169f.chunk.js": "/AlanPenaRuiz/veterinary/static/js/2.2aca169f.chunk.js",
-    "static/js/2.2aca169f.chunk.js.map": "/AlanPenaRuiz/veterinary/static/js/2.2aca169f.chunk.js.map",
-    "index.html": "/AlanPenaRuiz/veterinary/index.html",
-    "precache-manifest.135959f113bef93b194a0b2863c2774d.js": "/AlanPenaRuiz/veterinary/precache-manifest.135959f113bef93b194a0b2863c2774d.js",
-    "service-worker.js": "/AlanPenaRuiz/veterinary/service-worker.js",
-    "static/css/main.b8a6c26f.chunk.css.map": "/AlanPenaRuiz/veterinary/static/css/main.b8a6c26f.chunk.css.map",
-    "static/js/2.2aca169f.chunk.js.LICENSE.txt": "/AlanPenaRuiz/veterinary/static/js/2.2aca169f.chunk.js.LICENSE.txt"
+    "main.css": "/veterinary/static/css/main.b8a6c26f.chunk.css",
+    "main.js": "/veterinary/static/js/main.032c0c15.chunk.js",
+    "main.js.map": "/veterinary/static/js/main.032c0c15.chunk.js.map",
+    "runtime-main.js": "/veterinary/static/js/runtime-main.f14530fd.js",
+    "runtime-main.js.map": "/veterinary/static/js/runtime-main.f14530fd.js.map",
+    "static/js/2.2aca169f.chunk.js": "/veterinary/static/js/2.2aca169f.chunk.js",
+    "static/js/2.2aca169f.chunk.js.map": "/veterinary/static/js/2.2aca169f.chunk.js.map",
+    "index.html": "/veterinary/index.html",
+    "precache-manifest.367fe10ea1f0dc962f8cbe6ab571bdc0.js": "/veterinary/precache-manifest.367fe10ea1f0dc962f8cbe6ab571bdc0.js",
+    "service-worker.js": "/veterinary/service-worker.js",
+    "static/css/main.b8a6c26f.chunk.css.map": "/veterinary/static/css/main.b8a6c26f.chunk.css.map",
+    "static/js/2.2aca169f.chunk.js.LICENSE.txt": "/veterinary/static/js/2.2aca169f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.599c6c2d.js",
+    "static/js/runtime-main.f14530fd.js",
     "static/js/2.2aca169f.chunk.js",
     "static/css/main.b8a6c26f.chunk.css",
-    "static/js/main.4c710276.chunk.js"
+    "static/js/main.032c0c15.chunk.js"
   ]
 }
